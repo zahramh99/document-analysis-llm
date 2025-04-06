@@ -10,7 +10,3 @@ This project analyzes PDF documents using Large Language Models to extract text,
 1. Clone the repo: `git clone https://github.com/yourusername/document-analysis-llm.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Add your PDF: `cp your_doc.pdf data/input.pdf`
-
-## 📜 License 
-[MIT License](LICENSE)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
