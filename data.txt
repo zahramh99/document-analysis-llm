@@ -1,0 +1,9 @@
+data/input.pdf – This is your input document. Copy any PDF here that you want to analyze. Example:
+cp my_terms.pdf data/input.pdf
+data/extracted_text.txt – This is auto-generated when you run the script. No need to manually edit.
+
+If you want to reset the process:
+rm data/extracted_text.txt
+
+Then run:
+python src/main.py
